@@ -10,7 +10,7 @@ const Navbar = () => (
         <Image src={logo} alt="logo" width={102} height={40} />
       </a>
       <Link href="/page1">
-        <a className={styles.link}>Page 1</a>
+        <a>Page 1</a>
       </Link>
       <Link href="/page2">
         <a className={styles.link}>Page 2</a>
