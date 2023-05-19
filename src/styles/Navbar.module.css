@@ -1,0 +1,8 @@
+.link {
+    color: #9d9d9d;
+    margin-left: 30px;
+}
+.link:hover {
+    color: white;
+    background-color: blue;
+}
